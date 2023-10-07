@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/helper-create-class-features-plugin": "^7.22.10",
+    "font-awesome": "^4.7.0",
+    "latest-version": "^7.0.0",
+    "react-bootstrap": "^2.8.0",
+    "react-router-dom": "^6.15.0"
+  }
+}
